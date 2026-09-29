@@ -4,7 +4,7 @@ App: **Beetle & Insect Identifier** · Package name: `de.mammut.kaefer` · Last 
 
 **Controller (responsible party):**
 Martin Hintermayr
-[Street and number]
+Marktstraße 12
 89407 Dillingen
 Email: mammutandroid@gmail.com
 

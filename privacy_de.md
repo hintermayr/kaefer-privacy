@@ -4,7 +4,7 @@ App: **Käfer- & Insektenerkennung** · Paketname: `de.mammut.kaefer` · Stand: 
 
 **Verantwortlich im Sinne der DSGVO:**
 Martin Hintermayr
-[Straße und Hausnummer]
+Marktstraße 12
 89407 Dillingen
 E-Mail: mammutandroid@gmail.com
 
